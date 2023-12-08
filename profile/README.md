@@ -21,7 +21,7 @@
 <br/>
 
 ## 🍀 Used Architecture - Client
-<img src="https://img.shields.io/badge/JavaScript-262626?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/React-262626?style=flat-square&logo=React&logoColor=61dbfb"/> <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>  
+<img src="https://img.shields.io/badge/JavaScript-262626?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/React-262626?style=flat-square&logo=React&logoColor=61dbfb"/> <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
 <br/>   
 <br/>
 
@@ -77,7 +77,15 @@
 <br/>
 
 ## 🍀 How to Install
-```npm install```
+```
+git clone https://github.com/Moeum-ewha/Moeum-frontend
+npm install
+```   
+or   
+```   
+git clone https://github.com/Moeum-ewha/Moeum-frontend
+npm install
+```
 <br/>   
 <br/>
 
