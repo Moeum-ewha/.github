@@ -9,19 +9,26 @@
 >[https://www.moeum.site](https://www.moeum.site)
 >
 >
-><img src="https://github.com/Moeum-ewha/Moeum-frontend/blob/main/public/readmeImg/111.png" width="800"/> 
+><img src="https://github.com/Moeum-ewha/Moeum-frontend/blob/main/public/readmeImg/001.jpg" width="800"/> 
 ><img src="https://github.com/Moeum-ewha/Moeum-frontend/blob/main/public/readmeImg/002.jpg" width="800"/> 
 <br/>   
 <br/>
 
 
-## 🍀 Used Architecture
-<img src="https://img.shields.io/badge/TypeScript-2d79c7?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Sequelize-2379BD?style=flat-square&logo=Sequelize&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/PM2-000000?style=flat-square&logo=PM2&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Prittier-F7B93E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=JavaScript&logoColor=white"/>  
+## 🍀 Used Architecture - Server
+<img src="https://img.shields.io/badge/TypeScript-2d79c7?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Sequelize-2379BD?style=flat-square&logo=Sequelize&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/PM2-262626?style=flat-square&logo=PM2&logoColor=white"/> 
+<br/>    
+<br/>
+
+## 🍀 Used Architecture - Client
+<img src="https://img.shields.io/badge/JavaScript-262626?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/React-262626?style=flat-square&logo=React&logoColor=61dbfb"/> <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>  
+<br/>   
 <br/>
 
 ## 🍀 Service Introduction
 
 <img src="https://github.com/Moeum-ewha/Moeum-frontend/blob/main/public/readmeImg/poster.png" width="800"/> 
+<br/>     
 <br/>
 
 ## 🍀 Contributers
@@ -29,9 +36,8 @@
 | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | <img src="https://github.com/Moeum-ewha/Moeum-frontend/blob/main/public/readmeImg/Fang.png" height="200"/> | <img src="https://github.com/Moeum-ewha/Moeum-frontend/blob/main/public/readmeImg/Judy.png" height="200"/> | <img src="https://github.com/Moeum-ewha/Moeum-frontend/blob/main/public/readmeImg/Apple.png" height="200"/> |
 | [yunsun99](https://github.com/yunsun99) | [GEONHEE AHN](https://github.com/GeonHeeAhn) | [ohjinyxung](https://github.com/ohjinyxung) |
-| 서버 구축, MySQL DB 설계, REST API 작성, EC2 서버 배포, PM2 무중단 배포| Face Recognification and Classification 기술 구현, 얼굴 인식 정확도 향상, 전반적인 프론트 개발, Vercel 프론트 배포  |프론트 개발, 서비스 기획, 아이디어 구체화, UX/UI 디자인|
+| MySQL DB 설계, REST API 작성, EC2 서버 구축, S3, RDS 및 도메인 관리, PM2 무중단 배포 | Face Recognification and Classification 구현 및 정확도 향상, 프론트 개발, Vercel 배포  | 프론트 개발, 서비스 기획, 아이디어 구체화, UX/UI 디자인, 포스터 및 제품설명서 제작 |
 
-<br/>
 <br/>
 <br/>
 
@@ -40,15 +46,15 @@
 > 모음의 프론트엔드 개발이 이루어진 공간입니다.   
 > React와 Javascript 기반의 코드로 이루어져 있습니다.
 <br/>
+
 ```Moeum-backend```
 > 모음의 백엔드 개발이 이루어진 공간입니다.   
 > Node.js와 TypeScript 기반의 코드로 이루어져 있습니다.   
-<br/>
-<br/>
+<br/>    
 <br/>
 
 ## 🍀 Service Architecture
-<img src="https://github.com/Moeum-ewha/Moeum-frontend/blob/main/public/readmeImg/flow.png" width="800"/> 
+<img src="https://github.com/Moeum-ewha/Moeum-frontend/blob/main/public/readmeImg/flow.png" width="500"/> 
 <br/>
 <br/>
 
@@ -82,9 +88,6 @@ npm run build
 npm run dev
 ```
 <br/>   
-<br/>
-<br/>
-
 
 ### Back-end
 ```
